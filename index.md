@@ -1,4 +1,5 @@
-<a href="10mb.bin" download>Download Test File</a>
+<a href="10mb.bin" download>Download Test File</a><br>
+<a href="static/10MB.bin" download>Download Test File from static folder</a>
 
 ## Welcome to GitHub Pages
 
